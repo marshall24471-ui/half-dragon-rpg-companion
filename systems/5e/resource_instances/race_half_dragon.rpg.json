@@ -83,8 +83,11 @@
                 {
                   "resource_id": "levelled_description",
                   "stats": {
+                    "level": {
+                      "value": 1
+                    },
                     "description": {
-                      "value": "You are Medium and your walking speed is 30 feet."
+                      "value": "Your size is Medium. Half-Dragons stand between six and eight feet tall. Your base walking speed is 30 ft. Half-Dragons typically live up to twice the age of their more mortal side; they mature quickly, easily able to fend for themselves as young as five, and to act like an adult at fifteen, if they so choose. Rollable Height: 5'9\" + 2d10 + 1d8. Rollable weight: 180 + 2d20 + (height roll result × 4)."
                     },
                     "id": "half_dragon_physiology_description"
                   }
@@ -120,8 +123,11 @@
                 {
                   "resource_id": "levelled_description",
                   "stats": {
+                    "level": {
+                      "value": 1
+                    },
                     "description": {
-                      "value": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light."
+                      "value": "You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
                     },
                     "id": "half_dragon_darkvision_description"
                   }
@@ -157,8 +163,11 @@
                 {
                   "resource_id": "levelled_description",
                   "stats": {
+                    "level": {
+                      "value": 1
+                    },
                     "description": {
-                      "value": "While wearing no armor, your AC equals 12 + your Dexterity modifier. You can still use a shield and gain this benefit."
+                      "value": "You are covered in hardened scales, an additional layer of protection beyond armor. While wearing no armor your AC is 12 + your Dexterity modifier. You can still use a shield and gain this benefit."
                     },
                     "id": "half_dragon_natural_armor_description"
                   }
@@ -194,8 +203,11 @@
                 {
                   "resource_id": "levelled_description",
                   "stats": {
+                    "level": {
+                      "value": 1
+                    },
                     "description": {
-                      "value": "Choose one draconic ancestor. Your choice determines your damage resistance and the damage type, area, and saving throw of your Breath Weapon."
+                      "value": "Choose a Draconic ancestor from the selectable options. You gain resistance to the associated damage type, and your Breath Weapon uses the associated damage type, area, and saving throw."
                     },
                     "id": "half_dragon_draconic_heritage_description"
                   }
@@ -225,7 +237,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Black. You have resistance to acid damage. Your Breath Weapon deals acid damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw. If you are a Brute, you gain resistance to poison damage at 5th level."
+                              "value": "Your draconic heritage is Black. You have resistance to acid damage. Your Breath Weapon deals acid damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw."
                             },
                             "id": "half_dragon_heritage_black_description"
                           }
@@ -262,7 +274,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Blue. You have resistance to lightning damage. Your Breath Weapon deals lightning damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw. If you are a Brute, you gain resistance to fire damage at 5th level."
+                              "value": "Your draconic heritage is Blue. You have resistance to lightning damage. Your Breath Weapon deals lightning damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw."
                             },
                             "id": "half_dragon_heritage_blue_description"
                           }
@@ -299,7 +311,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Brass. You have resistance to fire damage. Your Breath Weapon deals fire damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw. If you are a Brute, you gain resistance to cold damage at 5th level."
+                              "value": "Your draconic heritage is Brass. You have resistance to fire damage. Your Breath Weapon deals fire damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw."
                             },
                             "id": "half_dragon_heritage_brass_description"
                           }
@@ -336,7 +348,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Bronze. You have resistance to lightning damage. Your Breath Weapon deals lightning damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw. If you are a Brute, you gain resistance to fire damage at 5th level."
+                              "value": "Your draconic heritage is Bronze. You have resistance to lightning damage. Your Breath Weapon deals lightning damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw."
                             },
                             "id": "half_dragon_heritage_bronze_description"
                           }
@@ -373,7 +385,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Copper. You have resistance to acid damage. Your Breath Weapon deals acid damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw. If you are a Brute, you gain resistance to poison damage at 5th level."
+                              "value": "Your draconic heritage is Copper. You have resistance to acid damage. Your Breath Weapon deals acid damage, uses a 5 by 30 ft. line, and calls for a Dexterity saving throw."
                             },
                             "id": "half_dragon_heritage_copper_description"
                           }
@@ -410,7 +422,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Gold. You have resistance to fire damage. Your Breath Weapon deals fire damage, uses a 15 ft. cone, and calls for a Dexterity saving throw. If you are a Brute, you gain resistance to cold damage at 5th level."
+                              "value": "Your draconic heritage is Gold. You have resistance to fire damage. Your Breath Weapon deals fire damage, uses a 15 ft. cone, and calls for a Dexterity saving throw."
                             },
                             "id": "half_dragon_heritage_gold_description"
                           }
@@ -447,7 +459,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Green. You have resistance to poison damage. Your Breath Weapon deals poison damage, uses a 15 ft. cone, and calls for a Constitution saving throw. If you are a Brute, you gain resistance to acid damage at 5th level."
+                              "value": "Your draconic heritage is Green. You have resistance to poison damage. Your Breath Weapon deals poison damage, uses a 15 ft. cone, and calls for a Constitution saving throw."
                             },
                             "id": "half_dragon_heritage_green_description"
                           }
@@ -484,7 +496,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Red. You have resistance to fire damage. Your Breath Weapon deals fire damage, uses a 15 ft. cone, and calls for a Dexterity saving throw. If you are a Brute, you gain resistance to cold damage at 5th level."
+                              "value": "Your draconic heritage is Red. You have resistance to fire damage. Your Breath Weapon deals fire damage, uses a 15 ft. cone, and calls for a Dexterity saving throw."
                             },
                             "id": "half_dragon_heritage_red_description"
                           }
@@ -521,7 +533,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is Silver. You have resistance to cold damage. Your Breath Weapon deals cold damage, uses a 15 ft. cone, and calls for a Constitution saving throw. If you are a Brute, you gain resistance to fire damage at 5th level."
+                              "value": "Your draconic heritage is Silver. You have resistance to cold damage. Your Breath Weapon deals cold damage, uses a 15 ft. cone, and calls for a Constitution saving throw."
                             },
                             "id": "half_dragon_heritage_silver_description"
                           }
@@ -558,7 +570,7 @@
                           "resource_id": "levelled_description",
                           "stats": {
                             "description": {
-                              "value": "Your draconic heritage is White. You have resistance to cold damage. Your Breath Weapon deals cold damage, uses a 15 ft. cone, and calls for a Constitution saving throw. If you are a Brute, you gain resistance to fire damage at 5th level."
+                              "value": "Your draconic heritage is White. You have resistance to cold damage. Your Breath Weapon deals cold damage, uses a 15 ft. cone, and calls for a Constitution saving throw."
                             },
                             "id": "half_dragon_heritage_white_description"
                           }
@@ -587,6 +599,9 @@
                 {
                   "resource_id": "levelled_amount",
                   "stats": {
+                    "level": {
+                      "value": 1
+                    },
                     "amount": {
                       "value": 1
                     },
@@ -612,8 +627,11 @@
                 {
                   "resource_id": "levelled_description",
                   "stats": {
+                    "level": {
+                      "value": 1
+                    },
                     "description": {
-                      "value": "You can use your action to exhale destructive energy. Each creature in the area of the exhalation must make the saving throw determined by your Draconic Heritage. The DC equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, or half as much on a success. The damage increases to 3d6 at 6th level, 4d6 at 11th level, 5d6 at 16th level, and 6d6 at 20th level. After you use your Breath Weapon, you regain its use after a short rest."
+                      "value": "When you use your Breath Weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your Draconic Heritage. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases by 1d6 at 6th, 11th, 16th, and 20th levels. You regain use of this weapon after a short rest."
                     },
                     "id": "half_dragon_breath_weapon_description"
                   }
@@ -806,8 +824,11 @@
                         {
                           "resource_id": "levelled_description",
                           "stats": {
+                            "level": {
+                              "value": 5
+                            },
                             "description": {
-                              "value": "At 5th level, you no longer need to take the Maintain Flight action and you can fly while wearing Light or Mithral Armor."
+                              "value": "At 5th level, you no longer need to take the Maintain Flight action and can fly while wearing Light or Mithral Armor."
                             },
                             "id": "half_dragon_improved_flight_description"
                           }
@@ -944,6 +965,9 @@
                         {
                           "resource_id": "levelled_description",
                           "stats": {
+                            "level": {
+                              "value": 5
+                            },
                             "description": {
                               "value": "At 5th level, you can channel your Breath Weapon into a terrifying roar. Instead of dealing damage, you can force non-allied creatures within 30 feet of you to make a Wisdom saving throw against your Breath Weapon DC. On a failure, they become Frightened of you. Affected creatures can reroll the saving throw at the beginning of their turns, ending the effect on a success. The effect also ends if you fall Unconscious."
                             },
@@ -1047,6 +1071,9 @@
                         {
                           "resource_id": "levelled_description",
                           "stats": {
+                            "level": {
+                              "value": 1
+                            },
                             "description": {
                               "value": "Your Natural Armor increases to 13 + your Dexterity modifier when wearing no armor. Alternatively, when using another method of calculating Unarmored AC, you can instead add a +1 bonus to that calculation."
                             },
@@ -1084,6 +1111,9 @@
                         {
                           "resource_id": "levelled_description",
                           "stats": {
+                            "level": {
+                              "value": 1
+                            },
                             "description": {
                               "value": "You gain an unarmed claw attack that deals 1d4 + your Strength modifier slashing damage. You are proficient with your claws."
                             },
@@ -1121,8 +1151,11 @@
                         {
                           "resource_id": "levelled_description",
                           "stats": {
+                            "level": {
+                              "value": 5
+                            },
                             "description": {
-                              "value": "At 5th level, you gain a secondary elemental resistance based on your Draconic Heritage: Black—Poison; Blue—Fire; Brass—Cold; Bronze—Fire; Copper—Poison; Gold—Cold; Green—Acid; Red—Cold; Silver—Fire; White—Fire."
+                              "value": "At 5th level you gain a secondary elemental resistance based on your heritage. Black—Poison; Blue—Fire; Brass—Cold; Bronze—Fire; Copper—Poison; Gold—Cold; Green—Acid; Red—Cold; Silver—Fire; White—Fire."
                             },
                             "id": "half_dragon_additional_resistance_description"
                           }
@@ -1147,7 +1180,84 @@
               ]
             },
             "unarmed_strike": {
-              "value": []
+              "value": [
+                {
+                  "resource_id": "levelled_weapon",
+                  "stats": {
+                    "level": {
+                      "value": 1
+                    },
+                    "weapon": {
+                      "value": {
+                        "resource_id": "weapon",
+                        "stats": {
+                          "name": {
+                            "value": "Claws"
+                          },
+                          "source": {
+                            "value": "homebrew"
+                          },
+                          "description": {
+                            "value": "Natural claw attack."
+                          },
+                          "type": {
+                            "value": "unarmed_strike"
+                          },
+                          "attack_ability": {
+                            "value": "strength"
+                          },
+                          "is_simple": {
+                            "value": true
+                          },
+                          "is_range": {
+                            "value": false
+                          },
+                          "is_finesse": {
+                            "value": false
+                          },
+                          "override_is_proficient": {
+                            "value": true
+                          },
+                          "damage_dice": {
+                            "value": [
+                              {
+                                "resource_id": "damage_dice",
+                                "stats": {
+                                  "dices": {
+                                    "value": [
+                                      {
+                                        "resource_id": "dice_roll",
+                                        "stats": {
+                                          "constant": {
+                                            "value": 0
+                                          },
+                                          "dice_type": {
+                                            "value": "d4"
+                                          },
+                                          "dice_amount": {
+                                            "value": 1
+                                          },
+                                          "id": "half_dragon_claws_d4_roll"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  "damage_type": {
+                                    "value": "slashing"
+                                  },
+                                  "id": "half_dragon_claws_damage"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "half_dragon_claws_weapon"
+                        }
+                      }
+                    },
+                    "id": "half_dragon_claws_levelled_weapon"
+                  }
+                }
+              ]
             },
             "same_spellcasting_ability_as_parent": {
               "value": true
